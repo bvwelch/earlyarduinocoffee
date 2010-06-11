@@ -1,4 +1,4 @@
-// 4-chan TC w/ mcp3424 and mcp9800
+// 4-channel TC with mcp3424 and mcp9800
 // Author: William Welch Copyright (c) 2010, all rights reserved.
 // MIT license: http://opensource.org/licenses/mit-license.php
 
