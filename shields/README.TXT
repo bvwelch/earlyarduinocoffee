@@ -2,6 +2,6 @@
 Author: William Welch Copyright (c) 2010, all rights reserved.
 Creative Commons BY license.
 
-The files are in Eagle format. But I've included PDF of the schematic page and the PCB.  If you have a problem with a garbled file, try the 'raw' link. Sorry.
+The files are in Eagle format. But I've included PDF of the schematic page and the PCB.  If you have a problem with a garbled file, try the 'download source' link at the top page of this project.
 
 
