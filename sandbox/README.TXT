@@ -5,6 +5,13 @@ MIT license: http://opensource.org/licenses/mit-license.php
 Circuit description: Originally developed on a JeeNode, later
 moved to a RBBB. Both are Arduino clones.
 
+Have dropped the LCD temporarily, to focus on getting data logger software
+ready to test with Jim Gallt's version of the tc4 shield: http://code.google.com/p/tc4-shield/
+
+
+
+--- early notes ---
+
 The JeeNode has the idea of 'ports', which is just a convention, and
 can be emulated on any Arduino, not just a JeeNode. We've tested this
 code on both a JeeNode and a RBBB.

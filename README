@@ -1,6 +1,8 @@
-The shields directory will store the Eagle schematics and pcb.
+News: 4-channel adc shield should be available soon from Jim Gallt.  
+http://code.google.com/p/tc4-shield/
 
-the Sandbox directory is where we'll store various experimental and 
-proof-of-concept code.
+For my shield with prototyping area, see this Eagle directory.
 
+You can find the open-source PC and Arduino data logging software in
+the 'sandbox' directory.
 
